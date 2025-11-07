@@ -92,6 +92,14 @@ const promotions = [
 ]
 </script>
 
+<style> 
+html, body { 
+  margin: 0; 
+  padding: 0; 
+  background-color: #f8f9fa; 
+} 
+</style>
+
 <style scoped>
 .app {
   background-color: #f8f9fa;
